@@ -12,21 +12,21 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Engineer Blog"
+title                    : "AI Engineer"
 title_separator          : "-"
 subtitle                 :  # site tagline that appears below site title in masthead
-name                     : "김준철"
+name                     : "JunCheol Kim"
 description              : "Just One Step"
-url                      : "http://7271kim.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://ahaampo5.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+logo                     : "/assets/images/88x88.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -94,9 +94,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "김준철"
+  name             : "JunCheol Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "항상 초심을 가지고 걸어가겠습니다."
+  bio              : "이 순간밖에 없다 성장하자"
   location         : "Republic of Korea"
   email            : "ahaampo5@gmail.com"
   links:
